@@ -1,1 +1,1 @@
-# Dynamic-NFT-Using-Chainlink-VRF
+# MetaBrain Dynamic NFT w/ Chainlink VRF
