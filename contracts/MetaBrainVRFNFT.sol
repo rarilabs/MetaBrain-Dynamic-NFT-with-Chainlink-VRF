@@ -5,6 +5,10 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@chainlink/contracts/src/v0.8/VRFConsumerBase.sol";
 
+/*
+* The following is using Chainlink VRF v1 which is deprecated
+* Please use Chainlink VRF V2: https://docs.chain.link/docs/get-a-random-number/
+*/
 contract MetaBrainVRFNFT is ERC721, VRFConsumerBase {
     using SafeMath for uint256;
     using Strings for uint256;
