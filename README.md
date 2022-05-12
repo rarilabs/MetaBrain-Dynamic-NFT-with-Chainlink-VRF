@@ -13,3 +13,9 @@ npm install @openzeppelin/contracts
 npm install @chainlink/contracts
 or
 yarn add @chainlink/contracts
+
+## Important
+
+Chainlink VRF v1 which is deprecated
+
+Please use Chainlink VRF V2: https://docs.chain.link/docs/get-a-random-number/
